@@ -1,5 +1,5 @@
 #variaveis
-host_destino="root"@192.168.1.4
+host_destino="joanny"@192.168.1.4
 pass="9009"
 container_origem="df2"
 container_destino="a10"
