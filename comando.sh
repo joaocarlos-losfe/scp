@@ -1,5 +1,5 @@
 #variaveis
-host_destino="joanny"@192.168.1.4
+host_destino="joanny@192.168.1.4"
 pass="9009"
 container_origem="df26f1ca1ef7324bad65a6798b7ab940686f449694e1c3c41866bda7778d1232"
 container_destino="a10fbf6ec47a46c0359d63aa29fcdff659551bae4cd004635be16be145a51e7d"

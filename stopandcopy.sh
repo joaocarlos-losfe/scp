@@ -60,7 +60,7 @@ echo ""
 echo ""
 
 
-ssh -t $DEST_HOST "docker start --checkpoint $CHECKPOINT_NAME pasid"
+ssh -t $DEST_HOST "docker start --checkpoint $CHECKPOINT_NAME check1"
 
 fim_start=$(date "+%M:%S.%3N")
 echo "fim do start: $fim_start"
@@ -68,5 +68,3 @@ echo "fim do start: $fim_start"
 echo ""
 echo ""
 echo ""
-
-
